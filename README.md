@@ -12,7 +12,10 @@ Keyboar Layout Editor + Plate & Case Builder + PCB + kbfirmware
 ![](./plate/plate.svg)
 
 ## Keyboard PCB
-基于 [标准poker配列](https://oshwhub.com/lleaves/mypoker_bak) 改造
+参考
+- [标准poker配列](https://oshwhub.com/lleaves/mypoker_bak)
+- [标准GH60](https://oshwhub.com/XIN_sk/biao-zhun-GH60ji-xie-jian-pan-14)
+
 
 ## Keyboard Firmware
 [我的布局配置](./firmware/bbbond.json)
