@@ -20,8 +20,6 @@ Keyboar Layout Editor + Plate & Case Builder + PCB + kbfirmware
 ## Keyboard Firmware
 [我的布局配置](./firmware/bbbond.json)
 
-- [QMK-CN](http://qmkeyboard.cn/)
-- [QMK-CN-指南](https://pan.baidu.com/s/10sPZaVeHviReAqVW6KCbGA)
 - [QMK](https://kbfirmware.com/)
 - [QMK_FIRMWARE_GITHUB](https://github.com/qmk/qmk_firmware)
 
