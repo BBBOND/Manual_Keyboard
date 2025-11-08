@@ -5,6 +5,10 @@ Keyboar Layout Editor + Plate & Case Builder + PCB + kbfirmware
 ## Keyboard Layout
 [![](./layout/keyboard-layout.png)](http://www.keyboard-layout-editor.com/#/gists/37d41ea89534464d84e273ac44e91a63)
 
+### 40%配列
+
+![](./layout/minimal-40%25-programmer-layout.png)
+
 - [Keyboar Layout Editor](http://www.keyboard-layout-editor.com)
 
 ## Keyboard Positioning Plate
