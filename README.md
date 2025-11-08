@@ -15,6 +15,9 @@ Keyboar Layout Editor + Plate & Case Builder + PCB + kbfirmware
 [Plate & Case Builder](http://builder.swillkb.com/) 搭配 [Keyboar Layout Editor](http://www.keyboard-layout-editor.com) 使用
 ![](./plate/plate.svg)
 
+### 40%配列
+![](./plate/minimal-40%25-programmer-layout.svg)
+
 ## Keyboard PCB
 参考
 - [标准poker配列](https://oshwhub.com/lleaves/mypoker_bak)
